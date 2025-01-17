@@ -6,7 +6,8 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 
 ## Recommended Insights
 
-# Store Performance Analysis:
+### Store Performance Analysis:
+
 1. Which are the top 10 stores in terms of Incremental Revenue (IR) generated from the promotions?
 
     <img width="170" alt="Screenshot 2025-01-17 135447" src="https://github.com/user-attachments/assets/391ca935-cf49-4268-98e8-84a9d7b22516" />
@@ -19,7 +20,8 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 
     <img width="301" alt="Screenshot 2025-01-17 135730" src="https://github.com/user-attachments/assets/b39722e6-a9f8-45f8-94eb-f0688170d522" />
 
-# Promotion Type Analysis:
+### Promotion Type Analysis:
+
 4. What are the top 2 promotion types that resulted in the highest Incremental Revenue?
 
     <img width="170" alt="Screenshot 2025-01-17 135835" src="https://github.com/user-attachments/assets/f97a845b-12d7-44e1-af51-25e8d849676c" />
@@ -36,7 +38,8 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 
     <img width="215" alt="Screenshot 2025-01-17 140119" src="https://github.com/user-attachments/assets/3b93468a-b92d-426a-b139-d131e5b916e2" />
 
-# Product and Category Analysis:
+### Product and Category Analysis:
+
 8. Which product categories saw the most significant lift in sales from the promotions?
 
     <img width="343" alt="Screenshot 2025-01-17 140216" src="https://github.com/user-attachments/assets/600fca7e-e049-4cfb-b6da-11130a79df63" />
