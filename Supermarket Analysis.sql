@@ -190,11 +190,11 @@ ORDER BY Incremental_Sold_Units DESC;
 --     This information will help us identify high-value products that are currently being heavily discounted, which can be useful for evaluating our
 --     pricing and promotion strategies.
 
-SELECT DISTINCT product_code, base_price
-FROM fact_events
+SELECT DISTINCT p.product_code, p.product_name, e.base_price
+FROM fact_events e
+JOIN dim_products p ON e.product_code = p.product_code
 WHERE base_price > 500 AND promo_type = 'BOGOF'
 ORDER BY base_price DESC;
-
 
 -- 11. Generate a report that provides an overview of the number of stores in each city. 
 --     The results will be sorted in descending order of store counts, allowing us to identify the cities with the highest store presence.
