@@ -48,27 +48,31 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 
     <img width="365" alt="Screenshot 2025-01-17 140328" src="https://github.com/user-attachments/assets/a1a5cb3b-e387-48af-903f-860f0d3cf7de" />
 
+ 10. What is the correlation between product category and promotion type effectiveness?
+     
+     <img width="479" alt="Screenshot 2025-01-18 101222" src="https://github.com/user-attachments/assets/1c93fe9a-7854-426b-b1c2-84c840bda6b6" />
+
 ## Ad-Hoc Analysis
 
-10. Provide a list of products with a base price greater than 500 and that are featured in promo type of 'BOGOF' (Buy One Get One Free). 
+11. Provide a list of products with a base price greater than 500 and that are featured in promo type of 'BOGOF' (Buy One Get One Free). 
     This information will help us identify high-value products that are currently being heavily discounted, which can be useful for evaluating our
     pricing and promotion strategies.
 
     <img width="261" alt="Screenshot 2025-01-17 140552" src="https://github.com/user-attachments/assets/d83ee203-82cc-49b8-b1f3-3f7a4134524a" />
 
-11. Generate a report that provides an overview of the number of stores in each city. 
+12. Generate a report that provides an overview of the number of stores in each city. 
     The results will be sorted in descending order of store counts, allowing us to identify the cities with the highest store presence.
     The report includes two essential fields: city and store count, which will assist in optimizing our retail operations.
 
     <img width="140" alt="Screenshot 2025-01-17 140758" src="https://github.com/user-attachments/assets/d2e5896d-ca68-400d-8c29-e30fb058aa4b" />
 
-12. Generate a report that displays each campaign along with the total revenue generated before and after the campaign? 
+13. Generate a report that displays each campaign along with the total revenue generated before and after the campaign? 
     The report includes three key fields: campaign_name, totaI_revenue(before_promotion), totaI_revenue(after_promotion).
     This report should help in evaluating the financial impact of our promotional campaigns. (Display the values in millions)
 
     <img width="338" alt="Screenshot 2025-01-17 140902" src="https://github.com/user-attachments/assets/526e26e4-3313-4a7c-b0b1-c5b2d1869f1c" />
 
-13. Produce a report that calculates the Incremental Sold Quantity (ISU%) for each category during the Diwali campaign. 
+14. Produce a report that calculates the Incremental Sold Quantity (ISU%) for each category during the Diwali campaign. 
     Additionally, provide rankings for the categories based on their ISU%. The report will include three key fields: category, isu%, and rank order.
     This information will assist in assessing the category-wise success and impact of the Diwali campaign on incremental sales.
 
@@ -77,7 +81,7 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 
     <img width="176" alt="Screenshot 2025-01-17 141003" src="https://github.com/user-attachments/assets/ed645b03-7a16-46ff-9412-1031ab3a6a57" />
 
-14. Create a report featuring the Top 5 products, ranked by Incremental Revenue Percentage (IR%), across all campaigns.
+15. Create a report featuring the Top 5 products, ranked by Incremental Revenue Percentage (IR%), across all campaigns.
     The report will provide essential information including product name, category, and ir%. 
     This analysis helps identify the most successful products in terms of incremental revenue across our campaigns, assisting in product optimization.
 
